@@ -1,4 +1,4 @@
-# [superset](https://github.com/airbnb/superset) on [Heroku](http://heroku.com)
+# [superset](https://github.com/apache/incubator-superset) on [Heroku](http://heroku.com)
 
 Superset is a data exploration platform designed to be visual, intuitive, and interactive. Visit the project's website at <http://airbnb.io/superset>
 
@@ -37,8 +37,8 @@ superset init
 
 ### How this works
 
-This repository is essentially a minimal web application that specifies [Superset as a dependency](https://github.com/airbnb/superset), and makes a deploy button available.
+This repository is essentially a minimal web application that specifies [Superset as a dependency](https://github.com/apache/incubator-superset), and makes a deploy button available.
 
 ## Problems?
 
-If you have problems using your instance of Superset, you should check the [official documentation](http://airbnb.io/superset/installation) or open an issue on [issue tracker](https://github.com/airbnb/superset/issues). If you discover an issue with the deployment process provided by *this repository*, then [open an issue here](https://github.com/neevany/caravel-on-heroku/issues).
+If you have problems using your instance of Superset, you should check the [official documentation](https://superset.incubator.apache.org/installation.html) or open an issue on [issue tracker](https://github.com/apache/incubator-superset/issues). If you discover an issue with the deployment process provided by *this repository*, then [open an issue here](https://github.com/dugjason/superset-on-heroku/issues).
