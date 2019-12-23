@@ -1,4 +1,4 @@
 pylibmc==1.6.0
-superset==0.34.0
+superset==0.30.0
 psycopg2==2.8.4
 MySQL-python==1.2.5
