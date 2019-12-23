@@ -1,1 +1,1 @@
-web: superset runserver -p $PORT
+web: python superset run -p $PORT
