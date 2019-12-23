@@ -1,1 +1,1 @@
-web: python superset run -p $PORT
+web: flask run -p $PORT --with-threads --reload --debugger --host=0.0.0.0
