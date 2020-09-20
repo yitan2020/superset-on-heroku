@@ -1,3 +1,4 @@
 pylibmc==1.6.0
 apache-superset==0.34.0
 psycopg2==2.8.4
+werkzeug==0.16.0
