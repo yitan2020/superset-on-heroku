@@ -5,7 +5,7 @@
   "repository": "https://github.com/shenchouyeh/superset-on-heroku",
   "addons": [
     "papertrail",
-    "jawsdb"
+    "heroku-postgresql"
   ],
   "buildpacks": [
     {
