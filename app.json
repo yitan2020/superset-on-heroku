@@ -5,7 +5,7 @@
   "repository": "https://github.com/bnol/superset-on-heroku",
   "addons": [
     "papertrail",
-    "heroku-postgresql"
+    "jawsdb-mysql"
   ],
   "buildpacks": [
     {
