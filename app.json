@@ -2,7 +2,7 @@
   "name": "Superset on Heroku",
   "description": "Data exploration platform designed to be visual, intuitive, and interactive",
   "logo": "https://github.com/apache/incubator-superset/blob/master/superset/assets/images/s.png?raw=true",
-  "repository": "https://github.com/bnol/superset-on-heroku",
+  "repository": "https://github.com/shenchouyeh/superset-on-heroku",
   "addons": [
     "papertrail",
     "jawsdb"
