@@ -3,4 +3,3 @@ apache-superset==0.34.0
 psycopg2==2.8.4
 werkzeug==0.16.0
 email_validator
-MySQLclient
