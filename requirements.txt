@@ -1,6 +1,2 @@
-pylibmc
 apache-superset==1.0.0
 psycopg2
-werkzeug
-email_validator
-sqlalchemy-vertica
