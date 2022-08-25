@@ -8,7 +8,7 @@ Updated and working as of Feb 5, 2021
 
 To get your own Superset 1.0.0 App running on Heroku, click the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/turquoisehealth/superset-on-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yitan2020/superset-on-heroku)
 
 To finish configuration, you need the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
