@@ -1,3 +1,14 @@
-apache-superset==1.0.0
-PyJWT==1.7.1
-psycopg2
+pylibmc
+apache-superset
+werkzeug
+email_validator
+sqlalchemy-vertica
+gevent
+gunicorn
+pandas
+sqlalchemy
+mysqlclient
+pymssql==2.1.5 
+psycopg2-binary 
+clickhouse-sqlalchemy
+pillow
